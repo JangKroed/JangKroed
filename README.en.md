@@ -22,7 +22,6 @@ I'm interested in real-time communication, automation, and small tools for every
 - [Cyworld Refactoring](https://github.com/refactoring-CyworldCloneCoding/BE-TypeScript) · Backend refactoring with TypeScript
 - [Backend Practice](https://github.com/JangKroed/wanted-pre-onboarding-backend) · Authentication and bulletin board APIs
 
-- [AI Bridge Agent](https://github.com/JangKroed/ai-agent-bridge) · macOS accessibility experiments with Tauri and Rust — early prototype
 
 ---
 

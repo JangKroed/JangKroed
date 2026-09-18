@@ -22,7 +22,6 @@ Node.js와 TypeScript로 백엔드를 개발합니다.
 - [Cyworld Refactoring](https://github.com/refactoring-CyworldCloneCoding/BE-TypeScript) · TypeScript 백엔드 리팩터링
 - [Backend Practice](https://github.com/JangKroed/wanted-pre-onboarding-backend) · 인증과 게시판 API
 
-- [AI Bridge Agent](https://github.com/JangKroed/ai-agent-bridge) · Tauri·Rust 기반 macOS 접근성 실험 — 초기 프로토타입
 
 ---
 
