@@ -1,3 +1,5 @@
+**한국어** · [English](./README.en.md)
+
 ## Hello, world 👋
 
 Node.js와 TypeScript로 백엔드를 개발합니다.
